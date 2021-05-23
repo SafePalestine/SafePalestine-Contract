@@ -1,4 +1,4 @@
-# safepalestinecharity
+# Safepalestinecharity
 SafePalestine is a unique, community lead project. Our BSC token will bring both awareness and charitable donations to our brothers and sisters in Palestine.
 
 ## About SafePalestine
