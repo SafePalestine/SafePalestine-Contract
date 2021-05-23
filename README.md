@@ -1,1 +1,1 @@
-# http-safepalestinecharity.com-
+# safepalestinecharity Contract
