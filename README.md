@@ -13,11 +13,11 @@ We are happy to welcome anyone willing to donate to improve the project .
 0xA40A2aE60e1aFBAeC602C0C5778A1AA45289D4d9
 ```
 ## Links
-- [Pancake](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xc3c07925292c6cbda324a9288bdfdebca322769c) - Pancake
-- [LiveChart](https://poocoin.app/tokens/0xc3c07925292c6cbda324a9288bdfdebca322769c) - Live Chart
-- [Website](https://safepalestinecharity.com/) - Website
-- [Twitter](https://twitter.com/safepalestine1/) - twitter
-- [instagram](https://www.instagram.com/safepalestinetoken/) - instagram
+- [Pancakeswap](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xc3c07925292c6cbda324a9288bdfdebca322769c) 
+- [LiveChart](https://poocoin.app/tokens/0xc3c07925292c6cbda324a9288bdfdebca322769c) 
+- [Website](https://safepalestinecharity.com/) 
+- [Twitter](https://twitter.com/safepalestine1/)
+- [instagram](https://www.instagram.com/safepalestinetoken/) 
 
 
 
